@@ -1,4 +1,4 @@
-package com.alperen.atilnewmovieapp.presentation.movies.views
+package com.alperen.atilnewmovieapp.presentation.movies
 
 import com.alperen.atilnewmovieapp.domain.model.Movie
 
